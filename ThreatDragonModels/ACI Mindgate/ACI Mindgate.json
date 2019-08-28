@@ -1,10 +1,15 @@
 {
   "summary": {
     "title": "ACI Mindgate",
-    "owner": "Mohit"
+    "owner": "Mohit",
+    "description": "OK"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "TEST"
+      }
+    ],
     "diagrams": [
       {
         "title": "TEST",
